@@ -1,0 +1,3 @@
+Sample,InsertionSortTime,InsertionSortCompares,InsertionSortMemaccess,MergeSortTime,MergeSortCompares,MergeSortMemaccess,QuickSortTime,QuickSortCompares,QuickSortMemaccess
+Sample1,0.000002,3,6,0.000004,4,40,0.000001,11,14
+Sample2,0.000001,6,28,0.000002,5,42,0.000000,14,25
